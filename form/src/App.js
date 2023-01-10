@@ -28,6 +28,7 @@ function App() {
   return (
     <div className="App">
       <h2>Holis</h2>
+      asdasd
     </div>
   );
 }
